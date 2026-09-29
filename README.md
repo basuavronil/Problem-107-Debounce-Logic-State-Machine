@@ -209,6 +209,9 @@ vvp sim
 
 ---
 
-## 9. License
+## 9. Output 
+<img width="665" height="338" alt="image" src="https://github.com/user-attachments/assets/ca5894b2-05a5-4469-9cc5-3a2067796e99" />
+
+## 10. License
 
 Released under the [MIT License](LICENSE).
